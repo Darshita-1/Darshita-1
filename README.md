@@ -1,11 +1,12 @@
 ![](https://coverfiles.alphacoders.com/503/50382.jpg)
-<h1 align="center"><strong>Hello <img src="https://raw.githubusercontent.com/Vaibhav-afk/Vaibhav-afk/master/wave.gif" width=50 height=40 />  This is Darshita Singh! <strong/></h1>
+<h1 align="center"><strong>Hello, This is Darshita Singh! <img src="https://raw.githubusercontent.com/Vaibhav-afk/Vaibhav-afk/master/wave.gif" width=50 height=40 /> <strong/></h1>
 <br>
 
 ### 👨🏻‍💻 &nbsp;About Me:
 
-🎓 &nbsp;pursuing B. Tech in computer science at Amity University.\
-🔍 &nbsp;Currently into flutter development and practicing problems.
+🎓 &nbsp; Currently pursuing B.Tech. in computer science at Amity University.\
+🔍 &nbsp; Interested in flutter development.
+  
 
 <br />
 
