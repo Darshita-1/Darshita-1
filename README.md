@@ -1,4 +1,4 @@
-![](https://cdn.wallpapersafari.com/77/33/48mxHl.jpeg)
+![](https://coverfiles.alphacoders.com/503/50382.jpg)
 <h1 align="center"><strong>Hello <img src="https://raw.githubusercontent.com/Vaibhav-afk/Vaibhav-afk/master/wave.gif" width=50 height=40 />  This is Darshita Singh! <strong/></h1>
 <br>
 
