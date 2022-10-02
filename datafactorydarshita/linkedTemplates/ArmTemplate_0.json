@@ -51,6 +51,10 @@
 					"receiver": {
 						"type": "string",
 						"defaultValue": "darshitasingh2001@gmail.com"
+					},
+					"message": {
+						"type": "string",
+						"defaultValue": "success"
 					}
 				},
 				"annotations": []
